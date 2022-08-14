@@ -1,0 +1,5 @@
+//! What is Dom ? DOM is a JavaScript Object
+
+// * D - Document -> Html Page Is a Document
+// * O - Object   -> Html Elements are Objects
+// * M - Model    -> Html tree Structure is the Model
